@@ -1,0 +1,95 @@
+17:09:18.930 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+17:09:19.858 [main] INFO  factory.BaseClass - Entering email and password..
+17:09:20.391 [main] INFO  factory.BaseClass - Clicked on login button..
+17:17:28.926 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+17:17:29.590 [main] INFO  factory.BaseClass - Entering email and password..
+17:17:31.089 [main] INFO  factory.BaseClass - Clicked on login button..
+17:19:20.196 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+17:19:20.881 [main] INFO  factory.BaseClass - Entering email and password..
+17:19:21.480 [main] INFO  factory.BaseClass - Clicked on login button..
+17:25:09.356 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+17:25:10.174 [main] INFO  factory.BaseClass - Entering email and password..
+17:25:11.682 [main] INFO  factory.BaseClass - Clicked on login button..
+15:27:05.382 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+15:27:05.892 [main] INFO  factory.BaseClass - Entering email and password..
+15:27:06.304 [main] INFO  factory.BaseClass - Clicked on login button..
+15:32:38.245 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+15:32:38.721 [main] INFO  factory.BaseClass - Entering email and password..
+15:32:39.128 [main] INFO  factory.BaseClass - Clicked on login button..
+15:33:14.137 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+15:33:14.616 [main] INFO  factory.BaseClass - Entering email and password..
+15:33:15.004 [main] INFO  factory.BaseClass - Clicked on login button..
+15:35:44.634 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+15:35:45.150 [main] INFO  factory.BaseClass - Entering email and password..
+15:35:46.668 [main] INFO  factory.BaseClass - Clicked on login button..
+15:41:11.880 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+15:41:12.484 [main] INFO  factory.BaseClass - Entering email and password..
+15:41:12.846 [main] INFO  factory.BaseClass - Clicked on login button..
+19:01:13.989 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+19:01:14.517 [main] INFO  factory.BaseClass - Entering email and password..
+19:01:14.901 [main] INFO  factory.BaseClass - Clicked on login button..
+10:35:47.468 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:35:51.173 [main] INFO  factory.BaseClass - Entering email and password..
+10:35:58.484 [main] INFO  factory.BaseClass - Clicked on login button..
+10:36:14.453 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:36:28.589 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:39:19.374 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:39:22.463 [main] INFO  factory.BaseClass - Entering email and password..
+10:39:28.051 [main] INFO  factory.BaseClass - Clicked on login button..
+10:39:44.611 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:40:02.775 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:12:08.047 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:12:26.538 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:16:12.326 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:16:39.877 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+12:52:29.629 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+12:52:37.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:52:37.691 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:52:37.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:54:27.276 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+12:54:30.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:54:30.615 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:54:30.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:55:29.858 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:55:38.091 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:55:38.143 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:55:38.199 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:56:15.122 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:56:18.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:56:18.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:56:18.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:56:52.083 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:56:56.086 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:56:56.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:56:56.153 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:34.680 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+10:57:38.091 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:38.125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:38.136 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:05:56.895 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:06:07.163 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:06:07.210 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:06:07.242 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:12:38.246 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:12:45.729 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:12:45.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:12:45.846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:17:30.218 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:17:37.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:17:37.895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:17:37.981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:45.910 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+11:52:51.415 [main] INFO  factory.BaseClass - Entering email and password..
+11:53:01.320 [main] INFO  factory.BaseClass - Clicked on login button..
+12:54:24.396 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+12:54:27.876 [main] INFO  factory.BaseClass - Entering email and password..
+12:54:33.625 [main] INFO  factory.BaseClass - Clicked on login button..
+12:57:50.570 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+12:57:54.425 [main] INFO  factory.BaseClass - Entering email and password..
+12:58:02.512 [main] INFO  factory.BaseClass - Clicked on login button..
+13:36:15.361 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+13:36:20.433 [main] INFO  factory.BaseClass - Entering email and password..
+13:36:28.315 [main] INFO  factory.BaseClass - Clicked on login button..
+17:46:15.583 [main] INFO  factory.BaseClass - Goto my account--->Click on Login..
+17:46:16.081 [main] INFO  factory.BaseClass - Entering email and password..
+17:46:17.300 [main] INFO  factory.BaseClass - Clicked on login button..
